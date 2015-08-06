@@ -1,26 +1,42 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [2 Col Portfolio](http://startbootstrap.com/template-overviews/2-col-portfolio/)
+#Blueprint: Zoom Slider
 
-[2 Col Portfolio](http://startbootstrap.com/template-overviews/2-col-portfolio/) is a two column portfolio template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+A simple content slider with depth-like zoom functionality for a predefined area in each slide.
 
-## Getting Started
+[Article on Codrops](http://tympanus.net/codrops/?p=24330)
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+[Demo](http://tympanus.net/Blueprints/ZoomSlider/)
 
-## Bugs and Issues
+The Blueprints are a collection of basic and minimal website concepts, components, plugins and layouts with minimal style for easy adaption and usage, or simply for inspiration.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-2-col-portfolio/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/2-col-portfolio/).
+Check out all of our Blueprints [here](http://tympanus.net/codrops/category/blueprints/)
 
-## Creator
+## License
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+Use it freely but do not distribute or sell "as-is". Read more here: [Codrops License](http://tympanus.net/codrops/licensing/)
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+## Credits
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+[Dynamic.js](http://dynamicsjs.com/) by Michaël Villar
+[Modernizr](http://modernizr.com/) by the Modernizr Team
 
-## Copyright and License
+### Images 
 
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-2-col-portfolio/blob/gh-pages/LICENSE) license.
+[Flat Apple Devices](http://drbl.in/jsoj) by Peter Finlan
+[Apple Watch](http://drbl.in/mNVE) by Vincent Le Moign
+[Website Mockup "Space Exploration"](http://drbl.in/oMJD) by Ante Matijaca
+[Free To-Do App UI](http://www.invisionapp.com/do/sketchappsources) by InVision
+[Pex: Free Website PSD](http://blazrobar.com/2015/free-psd-website-templates/pex-a-free-website-home-page-photoshop-psd/) by Blaz
+[Perspective App Screen Mockup](http://graphicburger.com/perspective-app-screens-mock-up/) by GraphicBurger
+
+### Icons 
+
+[Feather Icons](https://gumroad.com/l/feather) by Cole Bemis
+Icon font created with [IcoMoon](https://icomoon.io)
+
+## Misc
+
+Follow us: [Twitter](http://www.twitter.com/codrops), [Facebook](http://www.facebook.com/pages/Codrops/159107397912), [Google+](https://plus.google.com/101095823814290637419), [GitHub](https://github.com/codrops), [Pinterest](http://www.pinterest.com/codrops/)
+
+[© Codrops 2015](http://www.codrops.com)
+
+
