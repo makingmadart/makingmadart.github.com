@@ -121,7 +121,7 @@ body {
 /* Zoomer */
 .zoomer {
 	position: relative;
-	height: 360px; /* this is needed for IE10 so that vertical flexbox centering works */
+	height: 650px; /* this is needed for IE10 so that vertical flexbox centering works */
 }
 
 .flex-center {
@@ -189,7 +189,7 @@ body {
 
 .preview {
 	overflow: hidden;
-	background: #18191b;
+	background: #222125;
 }
 
 .preview img {
@@ -267,13 +267,13 @@ body {
 }
 
 .content h2 {
-	font-size: 3.5em;
+	font-size: 3em;
 	font-weight: normal;
 	margin: 0;
 }
 
 .content h3 {
-	font-size: 1.95em;
+	font-size: 1.65em;
 	font-weight: normal;
 	margin: 0.25em 0 0.5em;
 	color: #685884;
